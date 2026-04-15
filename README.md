@@ -1,6 +1,9 @@
 # 🚀 Multiple Roblox Instances (2026) — Complete Guide, Features, Download & Setup
 
-> SEO Optimized • GitHub Markdown • Competitor-Beating • Beginner Friendly
+<a href="https://multiple-game.github.io">
+  <img src="https://raw.githubusercontent.com/multiple-game/multiple-game.github.io/refs/heads/main/images/dark-download-removebg-preview.png" style="width: 300px; height: auto;" alt="Download">
+</a>
+
 
 ---
 
@@ -30,6 +33,8 @@
 **Multiple Roblox Instances** is a **lightweight open-source utility** that allows you to **run multiple Roblox games at the same time on one PC**.
 
 Unlike traditional Roblox limitations (1 game per device), this tool removes that restriction and gives you **complete multi-instance control**.
+
+
 
 ### 💡 What It Does:
 
